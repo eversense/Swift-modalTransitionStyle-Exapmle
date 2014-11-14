@@ -1,10 +1,10 @@
-// new
 //  ViewController.swift
 //  Swift-Modal-Example
 //
 //  Created by Osamu Nishiyama on 2014/10/22.
 //  Copyright (c) 2014年 ever sense. All rights reserved.
 //
+
 
 import UIKit
 
